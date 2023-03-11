@@ -1,0 +1,19 @@
+Hello this		 is the first  file for testing and would you get this
+helo this is second line
+please find 
+
+i)	The empty string should give empty list with no words
+ii)	The string with one word must give one word as output in list
+iii)	The string with one space between each word should give correct output
+iv)	The string with double space between each word should give correct output 
+v)	The string with many lines should identify the newline character and give correct word count
+vi)	The string with a tab between each word should omit the tab , consider it as delimiter
+vii)	The string with large size should pass too
+viii)	The string should give correct word count 
+ix)	String with special characters in it’s words should consider characters as characters and print separate words.
+x)	String with alphanumeric words  are considered as unique words such as  word12 1234
+
+hello!! hello!! hello!!
+ wow*
+
+
