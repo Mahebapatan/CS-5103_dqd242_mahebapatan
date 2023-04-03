@@ -34,12 +34,12 @@ def get_word_freq(ip_string):
       
    print("*******************")
    print("The total number of characters in the input file including spaces is : \n\n", len(ip_string))
-   text1 = open("sample1.txt", "r")
+   text1 = open("sample.txt", "r")
    lines = len(text1.readlines()) 
    print("The number of lines in the input file is: \n\n", lines)
 
 def Driver():
-    text = open("sample1.txt", "r")
+    text = open("sample.txt", "r")
      
     ip_string = text.read()
         
