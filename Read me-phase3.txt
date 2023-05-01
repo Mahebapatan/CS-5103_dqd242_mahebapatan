@@ -1,0 +1,5 @@
+The project has a main file named word_replacement.py. The project can be run using any python editor. Please copy the sample1(this file has the string) text file attached here(also found on github) for the string in text file. 
+
+The test results and the requirement documents are there in the repository. The documents are called  Requirements document for the phase-3.doc Test_cases and test_results for the phase-3.doc respectively. 
+
+There is a design change document and code clone static bug detectiont tools results attached as Design change report.doc and Code clone detection and static bug detection tool results and experience.doc respectively.
